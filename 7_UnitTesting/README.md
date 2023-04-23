@@ -1,5 +1,13 @@
 # UnitTesting
- 
+
+Questions for the self-check:
+1.	What is a unit test? What other types of tests exist?
+2.	What is testing pyramid?
+3.	What is TDD and BDD?
+4.	What is a mock, stub and fake?
+5.	Which test frameworks in C# do you know?
+6.	What best practices of unit testing do you know? What is AAA, FIRST?
+
 ## The FizzBuzz Kata
 
 * Write a program that prints the numbers from 1 to 100.

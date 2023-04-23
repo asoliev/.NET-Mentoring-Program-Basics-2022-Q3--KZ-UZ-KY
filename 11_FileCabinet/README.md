@@ -1,6 +1,15 @@
 # FileCabinet
  https://learn.epam.com/myLearning/program?groupGuid=d8951fce-b848-42aa-99c1-606b443aed19
 
+
+Questions for the self-check:
+1.	What are the four principles of object-oriented programming? Can you explain each in your own words?
+2.	What is multiple inheritance? How are we able to achieve it in .NET?
+3.	What do S.O.L.I.D. principles stand for? Can you decipher each letter?
+4.	What other principles do you know, do they conflict or complement each other?
+
+
+
 ### Description
 Given you are writing a file -cabinet software for a library. Currently the library works with the following document types: books, localized books, and patents and the following functionality is requested:
 

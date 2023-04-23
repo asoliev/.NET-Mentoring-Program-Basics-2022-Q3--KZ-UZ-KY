@@ -1,6 +1,15 @@
 # HttpFundamentals
  https://learn.epam.com/myLearning/program?groupGuid=d8951fce-b848-42aa-99c1-606b443aed19&tab=panels
 
+Questions for the self-check:
+1.	What is HTTP?
+2.	What is the header?
+3.	What are Cookies, what types of cookies are there?
+4.	What is the HTTP message status?
+5.	What parts does a URL consist of? What can it contain?
+
+
+
 ### Description
 Create two console applications:
 
@@ -45,3 +54,8 @@ Listener: Implement the "GetMyNameByHeader" method, in the response add a new he
 Client: Implement URL access http://localhost:8888/MyNameByCookies/ get a response, get the value "MyName" from cookies and output it to the console.
 
 Listener: Implement the "MyNameByCookies" method, in the response add cookies "MyName" in which pass your name.
+
+## NB! Scoreboard:
+- 1-3 stars – Task 1-2 were completed.
+- 4 stars – Tasks 1-3 were completed.
+- 5 stars – Tasks 1-4 were completed.

@@ -1,6 +1,13 @@
 # Reflection
  https://learn.epam.com/myLearning/program?groupGuid=d8951fce-b848-42aa-99c1-606b443aed19
 
+Questions for the self-check:
+1.	What is reflection in .NET?
+2.	What does reflection allow you to do?
+3.	What are fully qualified type names?
+4.	What examples of practical application of reflection can you imagine?
+5.	Is it possible to get information about private fields/methods using reflection?
+
 ### Tasks 1 (week 1):
 
 Create a console application which demonstrates the use of a custom attribute. Attribute should allow to read/write a configuration value via at least two configuration providers: FileConfigurationProvider and ConfigurationManagerConfigurationProvider, which would allow to get/store a setting value in a custom file and app.config (appsettings.json) respectively. It could be a single attribute ConfigurationItemAttribute with parameters: settingName, providerType (File, Configuration Manager); or multiple attributes: FileConfigurationItemAttribute, ConfigurationManagerConfigurationItemAttribute. Any other settings providers are also acceptable, even instead of proposed ones (File / Configuration Manager).
